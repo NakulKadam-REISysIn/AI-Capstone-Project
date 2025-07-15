@@ -1,5 +1,4 @@
-# Capstone
-AI vs Real Image Detection
+# AI vs Real Image Detection
 
 Presented by: Neural Ninjas (SaaS)
 - Chinmay Singh
