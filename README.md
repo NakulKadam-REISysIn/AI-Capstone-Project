@@ -34,6 +34,6 @@ We explored various models with different datasets and parameters & evaluated th
 One thing to highlight is that with the smaller number of images in the training data set, the accuracy of those models was somewhere around 60% - 70%.
 Also, when we tried a dataset with limited number of categories, the accuracy was much better.
 
-In this project we are working with ResNet50 model as we got better results with this model. Since this is a pre-trained model, it also helps to reduce the training time and improve accuracy. 
-ResNet50 is trained on 1.28 million images, with 50 layers & 1000 categories.
+In this project we are working with MobileNetV2 model as we got better results with this model. Since this is a pre-trained model, it also helps to reduce the training time and improve accuracy. 
+MobileNetV2 is trained on 1.28 million images, with 53 layers & 1000 categories.
 
