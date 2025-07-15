@@ -25,6 +25,10 @@ These data sets were preprocessed and transformed into required format.
 Since we are categorizing the image as either AI or Real, this is a classification problem. 
 As a team we worked on different datasets, different models with different combination of hyperparameters to evaluate the accuracy of the model. 
 
+# Dataset
+- https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/code
+- https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images/data
+
 # Results
 We explored various models with different datasets and parameters & evaluated the accuracy of those models. 
 One thing to highlight is that with the smaller number of images in the training data set, the accuracy of those models was somewhere around 60% - 70%.
