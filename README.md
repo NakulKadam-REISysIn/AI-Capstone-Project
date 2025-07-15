@@ -2,11 +2,11 @@
 AI vs Real Image Detection
 
 Presented by: Neural Ninjas (SaaS)
-Chinmay Singh
-Jaipaul Chinthakuntla
-Mahananda Nyamagouda
-Nakul Kadam
-Sarat Goli
+- Chinmay Singh
+- Jaipaul Chinthakuntla
+- Mahananda Nyamagouda
+- Nakul Kadam
+- Sarat Goli
 
 # Introduction
 With the rise of AI image generation tools like Midjourney and DALL·E, it’s becoming increasingly difficult to distinguish real from fake. This project aims to tackle that.
