@@ -25,7 +25,7 @@ These data sets were preprocessed and transformed into required format.
 Since we are categorizing the image as either AI or Real, this is a classification problem. 
 As a team we worked on different datasets, different models with different combination of hyperparameters to evaluate the accuracy of the model. 
 
-# Dataset
+# Datasets
 - https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images/code
 - https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images/data
 
